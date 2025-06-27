@@ -95,7 +95,7 @@ document.querySelector('#app').innerHTML = `
             </div>
           </div>
           <div class="relative flex justify-center">
-  <img src="/my-portfolio-website/profile.jpg" alt="Syed Awais Shah" class="w-72 h-72 rounded-full object-cover grayscale filter hover:grayscale-0 transition duration-300">
+  <img src="/my-portfolio/profile.jpg" alt="Syed Awais Shah" class="w-72 h-72 rounded-full object-cover grayscale filter hover:grayscale-0 transition duration-300">
 </div>
           </div>
         </div>
