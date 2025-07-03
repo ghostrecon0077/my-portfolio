@@ -182,7 +182,7 @@ document.querySelector('#app').innerHTML = `
                 <span class="bg-purple-100 text-purple-800 text-sm px-2 py-1 rounded">GPT-2</span>
               </div>
               <div class="flex space-x-3">
-                <a href="https://github.com/ghostrecon0077" target="_blank" class="text-blue-500 hover:text-blue-300 text-sm font-medium">GitHub</a>
+                <a href="https://ghostrecon0077.github.io/Marra-Showcase/" target="_blank" class="text-blue-500 hover:text-blue-300 text-sm font-medium">Showcase</a>
               </div>
             </div>
           </div>
